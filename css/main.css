@@ -16,13 +16,11 @@ a {
     text-decoration: none;
     color: #7c7777;
 }
-link {
-    text-decoration: none;
-    color: #097d85;
-}
 
 a:hover {
     text-decoration: underline;
+    color: rgb(76, 197, 233);
+
 }
 h1 {
     font-size: 3em;
